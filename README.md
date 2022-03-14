@@ -1,3 +1,3 @@
 # SimpleSpamBot
-Author: Mateusz Naumiuk
+Author: Mateusz Naumiuk<br>
 Date: 03.14.2022
